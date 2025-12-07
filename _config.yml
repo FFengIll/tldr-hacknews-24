@@ -1,9 +1,9 @@
 title: TLDR.HackNews24
-descriprtion: As the title said, read it 1000 years later bro.
+description: As the title said, read it 1000 years later bro.
 theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
-  - enabled: true
-  - collections: true
+  enabled: true
+  collections: true
