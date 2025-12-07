@@ -12,11 +12,8 @@ relative_links:
 baseurl: "/tldr-hacknews-24" # This should match your repository name
 url: "https://krabswong.github.io"
 
-# Collections configuration
-collections:
-  posts:
-    output: true
-    permalink: "/tldr-hacknews-24/:year/:month/:day/"
+# Permalink configuration for posts
+permalink: /:year/:month/:day/:title/
 
 # Defaults for posts
 defaults:
