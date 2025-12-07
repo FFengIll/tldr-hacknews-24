@@ -1,5 +1,5 @@
 layout: post
-title: "HackerNews Daily - 2025-12-06"
+title: "2025-12-06"
 date: 2025-12-06
 
 # HackerNews Daily - 2025-12-06
